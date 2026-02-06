@@ -2,7 +2,7 @@
 README PT-BR / EN
 PT-BR:
 =========================================
-Assistente inteligente local inspirado no J.A.R.V.I.S., desenvolvido em Python, com interface gráfica, voz opcional, microfone, memória persistente e integração com Ollama (Cloud Free/Paga ou Local).
+Assistente inteligente local inspirado no J.A.R.V.I.S. do Tony Stark do MCU, desenvolvido em Python, com interface gráfica, voz opcional, microfone, memória persistente e integração com Ollama (Cloud Free/Paga ou Local).
 
 Projeto em BETA, funcional e estável para uso diário.
 
