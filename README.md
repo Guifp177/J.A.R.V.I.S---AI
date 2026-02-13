@@ -1,5 +1,5 @@
 # J.A.R.V.I.S. — v1.0 Beta
-:<img width="1242" height="751" alt="Captura de tela 2026-02-13 175443" src="https://github.com/user-attachments/assets/0e048b6a-fdcf-45e1-97dd-d85a4b10c4fc" />
+<img width="1242" height="751" alt="Captura de tela 2026-02-13 175443" src="https://github.com/user-attachments/assets/0e048b6a-fdcf-45e1-97dd-d85a4b10c4fc" />
 README PT-BR / EN
 
 PT-BR
